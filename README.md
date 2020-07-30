@@ -1,3 +1,2 @@
 # hello-world
-
-Testing commit. 
+print(Hello World) - Testing functionality. 
